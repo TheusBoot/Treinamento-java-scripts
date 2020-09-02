@@ -1,5 +1,7 @@
 let nome = 'Matheus';
+// Var
 const nome = 'Matheus';
-console.log(30 * 10)
-console.log(nome, nome)
+var nome_completo = 'Matheus Teixeira Trindade';
+
+console.log(nome_completo)
 
